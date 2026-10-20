@@ -1,4 +1,4 @@
-#Nigeria-s-TB-Burden-Compared-with-Other-High-Burden-Countries.
+# Nigeria's TB Burden Compared with other High-Burden Countries.
 
 ## Description 
 Is Nigeria finding and curing its tuberculosis (TB) patients, including those with drug-resistant TB? This project compares Nigeria with 29 other high-burden countries using WHO data (estimates up to 2024). Using WHO Global TB Programme data from the Global Tuberculosis Report 2025, with 2024 estimates, the project explores estimated TB cases, incidence, deaths, case detection, treatment outcomes, and rifampicin-resistant/multidrug-resistant TB.
@@ -43,13 +43,13 @@ Detailed cleaning steps are documented in the separate Data Cleaning Documentati
 1. Selected 30 countries using the criteria described above, based on 2024 estimates.
 2. Compared Nigeria with six other countries among the selected group with the highest estimated case counts: India, Indonesia, China, the Philippines, Pakistan, and the Democratic Republic of the Congo.
 3. Used the latest available year for each indicator:
-- Burden, incidence, deaths, case detection, and resistance estimates: 2024
-- Treatment success for new and relapse cases: 2023 cohort
-- MDR-TB treatment success and resistant cases starting treatment: 2022
+   - Burden, incidence, deaths, case detection, and resistance estimates: 2024
+   - Treatment success for new and relapse cases: 2023 cohort
+   - MDR-TB treatment success and resistant cases starting treatment: 2022
 4. Ranked rates using unrounded values calculated from raw counts where applicable, to reduce ties caused by rounded percentages.
 5. Treated the share of resistant cases reached as an approximate indicator because MDR-TB and rifampicin-resistant TB (RR-TB) are related but not identical groups.
 
-##Key Findings
+## Key Findings
 - Nigeria ranked 6th of the 30 selected countries by estimated new TB cases, with approximately 510,000 cases in 2024.
 -Nigeria's estimated case-detection rate increased from 21% in 2015 to 79% in 2024.
 - Approximately 107,000 estimated cases were not detected in 2024.
