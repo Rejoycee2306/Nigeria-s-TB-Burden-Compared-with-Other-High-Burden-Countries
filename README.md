@@ -68,13 +68,17 @@ The dashboard contains four pages:
 4. Key Insights — a summary of the main findings.
 
 ### Global Overview
-![Global Overview](screenshots/global-overview.png)
+![Global TB burden](screenshots/global-tb-burden.png)
 
 ### High-Burden Countries
 ![High-Burden Countries](screenshots/high-burden-countries.png)
 
 ### Nigeria vs Peers
 ![Nigeria vs Peers](screenshots/nigeria-vs-peers.png)
+
+### Insights 
+![Insights for TB burden analysis](screenshots/insights-for-tb-burden-analysis.png)
+
 
 ## Limitations
 - The country group is a project-defined comparison group, not the WHO's official list.
